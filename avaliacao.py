@@ -1,4 +1,4 @@
 class Avaliacao:
-    def __init__(self,texto,polaridade):
-        self.texto = texto
+    def __init__(self,avaliacao, polaridade):
+        self.avaliacao = avaliacao
         self.polaridade = polaridade
